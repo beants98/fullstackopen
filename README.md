@@ -1,2 +1,1 @@
-#MYAPP
-Setting up my git and GitHub
+Fullstack open 2021
